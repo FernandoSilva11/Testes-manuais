@@ -11,3 +11,16 @@ Responsividade - Grande parte da população acessa site mais a internet pelo ce
 Pesquisa - É importante que a pesquisa esteja funcionando de acordo com o esperado, trazendo aquilo que é pesquisado de maneira rápida e direta, ou informando de maneira clara que o site não possui aquele produto, se esse for o caso.
 
 Carrinho - Uma das partes mais importantes de um E-commerce, tem como objetivo ser um resumo da compra e uma das partes finais. Deve conter campo para digitar cep e também campo para digitar cupons de descontos, alem de informar com clareza os produtos e preços presentes naquela compra.
+
+![resultado-execucao](https://user-images.githubusercontent.com/50935903/179132744-5636c47b-07d1-41f6-99b1-69f84e97216f.png)
+
+Motivo para que os alguns casos fossem dados como status - inconsistência encontrada:
+
+*Observação: O que EU considerei como "inconsistências" foram baseadas em experiências minhas em outros sites do mesmo estilo e seguimento, pode ser que algumas dessas "inconsistências" que citei sejam intêncionais e para a empresa não seja algo fora do padrão deles.
+
+Funcionalidade Pesquisa - 1 inconsistência encontrada
+    Caso 1 - Realizar pesquisa de um produto não cadastrado - O sistema retornou diversos produtos que não tinham nenhuma semelhança com o que foi pesquisado, que no caso foi cadeira de praia e foi retornado, diversos smarthphones.
+
+Funcionalidade Carrinho - 2 inconstisências encontradas
+    Caso 3 - Inserir cep inválido - O sistema não informou nada ao inserir cep inválido, e isso pode levar o usuário a achar que esta inserindo corretamente e que o problema esta no site.
+    Caso 4 - Adicionar item, clicar em continuar comprando e adicionar o mesmo item novamente. - Sistema não adiciona uma nova unidade daquele item ao carrinho, continua exibindo apenas o valor 1.
