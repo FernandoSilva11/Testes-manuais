@@ -23,8 +23,8 @@ Motivo para que os alguns casos fossem dados como status - inconsistência encon
 *Observação: O que EU considerei como "inconsistências" foram baseadas em experiências minhas em outros sites do mesmo estilo e seguimento, pode ser que algumas dessas "inconsistências" que citei sejam intêncionais e para a empresa não seja algo fora do padrão deles.
 
 Funcionalidade Pesquisa - 1 inconsistência encontrada
-    Caso 1 - Realizar pesquisa de um produto não cadastrado - O sistema retornou diversos produtos que não tinham nenhuma semelhança com o que foi pesquisado, que no caso foi cadeira de praia e foi retornado, diversos smarthphones.
+  1. Caso 1 - Realizar pesquisa de um produto não cadastrado - O sistema retornou diversos produtos que não tinham nenhuma semelhança com o que foi pesquisado, que no caso foi cadeira de praia e foi retornado, diversos smarthphones.
 
 Funcionalidade Carrinho - 2 inconstisências encontradas
-    Caso 3 - Inserir cep inválido - O sistema não informou nada ao inserir cep inválido, e isso pode levar o usuário a achar que esta inserindo corretamente e que o problema esta no site.
-    Caso 4 - Adicionar item, clicar em continuar comprando e adicionar o mesmo item novamente. - Sistema não adiciona uma nova unidade daquele item ao carrinho, continua exibindo apenas o valor 1.
+  1. Caso 3 - Inserir cep inválido - O sistema não informou nada ao inserir cep inválido, e isso pode levar o usuário a achar que esta inserindo corretamente e que o problema esta no site.
+  2. Caso 4 - Adicionar item, clicar em continuar comprando e adicionar o mesmo item novamente. - Sistema não adiciona uma nova unidade daquele item ao carrinho, continua exibindo apenas o valor 1.
