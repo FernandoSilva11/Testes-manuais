@@ -12,7 +12,7 @@ Pesquisa - É importante que a pesquisa esteja funcionando de acordo com o esper
 
 Carrinho - Uma das partes mais importantes de um E-commerce, tem como objetivo ser um resumo da compra e uma das partes finais. Deve conter campo para digitar cep e também campo para digitar cupons de descontos, alem de informar com clareza os produtos e preços presentes naquela compra.
 
-![resultado-execucao](https://user-images.githubusercontent.com/50935903/179132744-5636c47b-07d1-41f6-99b1-69f84e97216f.png?style=centerme)
+![resultado-execucao](https://user-images.githubusercontent.com/50935903/179132744-5636c47b-07d1-41f6-99b1-69f84e97216f.pngstyle=centerme)
 
 Motivo para que os alguns casos fossem dados como status - inconsistência encontrada:
 
